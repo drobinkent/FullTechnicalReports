@@ -1,2 +1,2 @@
 # FullTechnicalReports
-All technical reports for future publish by Debobroto Das Robin
+All technical reports for by Debobroto Das Robin
